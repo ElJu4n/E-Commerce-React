@@ -1,0 +1,23 @@
+nav{
+    justify-content: center;
+    height: 100px;
+    background-color: rgb(190, 52, 52);
+}
+
+ul {
+    list-style-type: none;
+}
+ul li {
+    float: left;
+    padding: 40px;
+}
+
+ul li a {
+    color: white;
+    font-size: large;
+    text-decoration: none;
+
+}
+ul li a img{
+    width: 100px;
+}

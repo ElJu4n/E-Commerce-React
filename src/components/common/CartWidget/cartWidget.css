@@ -1,0 +1,27 @@
+ .icon-with-notification{
+  width: 60px;
+  display: flex;
+ }
+ 
+.cart-icon {
+/*   fill: rgb(199, 114, 114); */
+  /* object-fit: contain; */
+  height: auto;
+  width: 100%;
+}
+
+.notification-bubble {
+    height: auto;
+    width: 50%;
+    color: rgb(255, 255, 255);
+    background-color:rgb(255, 162, 0) ;
+    border-style: solid;
+    border-color: black;
+    border-width: 1%;
+    font-size: 70%;
+    border-radius: 100%; 
+    padding: 6%;
+    justify-content: center;
+
+
+}
