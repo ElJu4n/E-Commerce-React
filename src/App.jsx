@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div>
-        Saludos Cordiales
+        <NavBar></NavBar>
       </div>
       <div>
         {saludMensaje}
